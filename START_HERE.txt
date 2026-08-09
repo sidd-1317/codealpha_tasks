@@ -1,0 +1,67 @@
+CODEALPHA DATA SCIENCE INTERNSHIP — TWO TASKS
+================================================
+
+Included:
+1. CodeAlpha_Iris_Flower_Classification
+2. CodeAlpha_Unemployment_Analysis
+
+Recommended order:
+- Complete Iris first.
+- Then download the unemployment CSV and run Task 2.
+
+WINDOWS / VS CODE SETUP
+-----------------------
+1. Install Python 3.
+2. Open the project folder in VS Code.
+3. Open Terminal.
+4. Create a virtual environment:
+   py -m venv .venv
+5. Activate it:
+   .venv\Scripts\activate
+6. Install dependencies:
+   python -m pip install -r requirements.txt
+
+TASK 1
+------
+cd CodeAlpha_Iris_Flower_Classification
+python -m pip install -r requirements.txt
+python iris_classification.py
+
+TASK 2
+------
+Download "Unemployment in India.csv" from:
+https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
+
+Put the CSV beside unemployment_analysis.py.
+
+Then:
+cd CodeAlpha_Unemployment_Analysis
+python -m pip install -r requirements.txt
+python unemployment_analysis.py
+
+GITHUB
+------
+Create two repositories:
+CodeAlpha_Iris_Flower_Classification
+CodeAlpha_Unemployment_Analysis
+
+Upload the project files and generated charts.
+
+VIDEO
+-----
+Record a short screen video showing:
+- project objective
+- dataset
+- code
+- model/analysis
+- graphs
+- final results
+
+LINKEDIN
+--------
+Post your internship status and the project video according to the CodeAlpha instructions.
+Tag @CodeAlpha and include the GitHub repository link.
+
+SUBMISSION
+----------
+Use the submission form shared by CodeAlpha in your WhatsApp group.
